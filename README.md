@@ -1,2 +1,2 @@
 # ios-SpriteKit-
-ios SpriteKit小游戏（传奇类）出售
+ios SpriteKit小游戏源码（传奇类-100）出售 +qq584884476
